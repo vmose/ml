@@ -39,23 +39,18 @@ The following Python libraries were utilized in these projects:
 
 ## Projects Overview  
 
-| Script Name         | Description                               | Key Libraries Used          |
+| Script Name         | Description                               | Key Tools/Techniques          |
 |---------------------|-------------------------------------------|-----------------------------|
-| `kiva_analysis.py`  | Deep Analysis of the kiva dataset imported via kiva.org API. | pandas, requests, matplotlib |
-| `matplotlib.py`     | Data exploration & visualization with matplotlib.            | matplotlib, seabon, numpy    |
-| `seaborn.py`        | Data exploration & visualization with seaborn.               | matplotlib, seabon, numpy    |
-| `numpy.py`          | Standard data analyses with numpy                            |  numpy                       |
-| `pandas.py`         | Standard data analyses with pandas                           | pandas, numpy                |
-| `torch.py`          | Data exploration using torch for deep learning               | torch, numpy                 |
-| `oop_functions.py`  | Standard data functions                                      | python3                      |
-| `oop_with_python.py`  | Object Oriented Classes & Functions                        | python3                  	  |
-| `polygon_transformations.py`  | Geoometrics transformations with shapely           | pandas, shapely, json        |
-| `pytube.py`         | Downloading mp3/4 files using pytube                         | pytube                       |
-| `sample_automation.py`  | Automated python file for ETL extraction & reporting     | pandas, sqlachemy            |
-| `heart_disease.py`  | Using data science to explore the symptoms of heart disease  | pandas, sqlachemy            |
-| `doctors_note.py`   | Build a fake doctor's note to get out of work (WHICH I WOULD NEVER DO)       | fpdf         |
-
-
-
+| `Analyzing_Vehicle_Emissions_Using_Linear_Regression.py`  | Studying variables of vehicles emmissions with linear regression. | pandas, Linear Regression, matplotlib |
+| `Another_Recommendation_Sys.py`     | Using correlation to build a recommender system.            | Python3    |
+| `Breast_Cancer_Analysis_With_PCA.py`        | Cancer classificatoin with PCA.               | matplotlib, seabon, Principal Component Analysis (PCA)    |
+| `Deeper_LinearRegre.py`          | Deeper study of linear regression techniques                            |  pandas, Linear Regression, matplotlib                       |
+| `K-Means Clustering.py`         | Unsupervised learning with k-means                          |  numpy, K-Means Clustering                |
+| `MovieRecommendationSystem.py`          | Combining recommender techniques with k-means clustering               | torch, Python3, K-Means Clustering                 |
+| `Predicting_Entities_Using_K_Nearest_Neighbor.py`  | KNN Clustering                                     | KNN, matplotlib                      |
+| `SpamDetection_With_Natural_Language_Processing.py`  | Solving spam detection with NLP                       | NLP                  	  |
+| `Preprocessing for NLP Vectorization.py`         | Comprehensive preprocessing for NLP transformation                        | BeautifulSoup NLP                 |
+| `StudyingKyphosisWithDecisionTrees.py`  | Studying Kyphosis With Decision Trees     | Decision trees          |
+| `SVM.ipynb.py`  | Support Vector Machines  | SVM            |
 
    Feel free to explore, modify, and use the scripts to fit your needs! Contributions are welcome.
