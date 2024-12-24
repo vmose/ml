@@ -2,6 +2,7 @@
 #Polynomial regression
 # Generate datapoints:
 import numpy as np
+import matplotlib.pyplot as plt
 x = np.arange(-5,5,0.1)
 y_noise = 20 * np.random.normal(size = len(x))
 y = 1*(x**3) + 1*(x**2) + 1*x + 3+y_noise
