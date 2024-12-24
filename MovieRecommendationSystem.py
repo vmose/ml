@@ -17,7 +17,7 @@ For each cluster, it prints out the top 10 movies with the highest number of rat
 
 # %%
 import zipfile
-with zipfile.ZipFile('C:\Input\ml-latest-small.zip', 'r') as zip_ref:
+with zipfile.ZipFile('ml-latest-small.zip', 'r') as zip_ref:
     zip_ref.extractall('data')
 
 # %%
@@ -219,3 +219,5 @@ for cluster in range(10):
 For each cluster, it prints out the top 10 movies with the highest number of ratings.'''
 
 
+
+# %%
